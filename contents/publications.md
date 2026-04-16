@@ -1,5 +1,5 @@
 #### Published
-- <strong>Lu Tongxi</strong>, Jian Liu, Yi Sui, Rencheng Sun, Changying Wang, Qing Yu, and Haoran Zhang. "A Scalable Framework for High-Resolution Urban BIPV Potential Assessment: A Case Study in Tokyo."  <strong>Advances in Applied Energy (2026): 100270</strong>, doi: [/10.1016/j.adapen.2026.100270][[Paper]]([https://www.sciencedirect.com/science/article/pii/S2666792426000090])
+- <strong>Lu Tongxi</strong>, Jian Liu, Yi Sui, Rencheng Sun, Changying Wang, Qing Yu, and Haoran Zhang. "A Scalable Framework for High-Resolution Urban BIPV Potential Assessment: A Case Study in Tokyo."  <strong>Advances in Applied Energy (2026): 100270</strong>, doi: 10.1016/j.adapen.2026.100270 [[Paper]](https://www.sciencedirect.com/science/article/pii/S2666792426000090)
   
 - <strong>Y. Hu</strong>, J. Liu, W. Zhang, Y. Sui, Q. Meng and R. Sun （2025）, "Self-Supervised Learning with Adaptive Graph Modeling for EEG-Based Epileptic Seizure Classification," <strong>IEEE Transactions on Biomedical Engineering</strong>, doi: 10.1109/TBME.2025.3605790.（中科院二区）[[Paper]](https://ieeexplore.ieee.org/document/11150508) [[Code]](https://github.com/freesui1984/ASGPF)
 
